@@ -1,4 +1,4 @@
-import * as actionTypes from '../Utils/actionTypes';
+import * as actionTypes from '../utils/actionTypes';
 
 export const onNumClick = (number) => ({
     type: actionTypes.INPUT_NUMBER,
